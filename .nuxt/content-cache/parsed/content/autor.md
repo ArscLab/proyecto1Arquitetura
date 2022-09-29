@@ -1,0 +1,1 @@
+{"parsed":{"_path":"/autor","_draft":false,"_partial":false,"_locale":"en","_empty":true,"title":"Autor","description":"","body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:autor.md","_source":"content","_file":"autor.md","_extension":"md"},"hash":"8N78tRzliS"}

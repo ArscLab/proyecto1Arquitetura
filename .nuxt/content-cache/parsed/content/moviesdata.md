@@ -1,0 +1,1 @@
+{"parsed":{"_path":"/moviesdata","_draft":false,"_partial":false,"_locale":"en","_empty":true,"title":"Moviesdata","description":"","body":{"type":"root","children":[],"toc":{"title":"","searchDepth":2,"depth":2,"links":[]}},"_type":"markdown","_id":"content:moviesdata.md","_source":"content","_file":"moviesdata.md","_extension":"md"},"hash":"8xaqYFeGIC"}
